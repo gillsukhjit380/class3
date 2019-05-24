@@ -49,6 +49,10 @@ public class CardTrick {
            System.out.println("You lose");
        }
         
+        Card luckyCard = new Card();
+        luckyCard.setValue(4);
+        luckyCard.setSuit("Diamond");
+        
         // and search magicHand here
         //Then report the result here
     }
