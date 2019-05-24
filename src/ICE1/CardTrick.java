@@ -53,6 +53,8 @@ public class CardTrick {
         luckyCard.setValue(4);
         luckyCard.setSuit("Diamond");
         
+        System.out.println("Lucky card is: " + luckyCard.getValue() + " of " + luckyCard.getSuit());
+        
         // and search magicHand here
         //Then report the result here
     }
