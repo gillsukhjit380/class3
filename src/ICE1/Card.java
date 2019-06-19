@@ -13,7 +13,7 @@ package ice1;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * 
- * @author dancye
+ * @author SUKHJIT
  */
 public class Card {
     
